@@ -1,0 +1,16 @@
+# ──────────────────────────────────────────────────────
+#  Recycle Detection System — Python dependencies
+#  Install with:  pip install -r requirements.txt
+# ──────────────────────────────────────────────────────
+
+# Core computer-vision library (webcam access, image drawing)
+opencv-python>=4.9.0
+
+# YOLOv8 object-detection framework by Ultralytics
+ultralytics>=8.2.0
+
+# Numerical computing (used for optional sound generation)
+numpy>=1.26.0
+
+# Optional: sound effects (install manually if you want beeps)
+# pygame>=2.5.0
